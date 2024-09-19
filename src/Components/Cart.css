@@ -1,0 +1,181 @@
+.cart-details{
+  margin-top: 10%;
+}
+
+
+.cart-img {
+  width: 60px;
+}
+
+.cart-unique {
+  font-size: 23px;
+  font-weight: 700 !important;
+  margin-bottom: 15px;
+}
+
+.table-head-rows {
+  font-size: 15px;
+  font-weight: 700 !important;
+}
+
+.table-row {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.btn-minus {
+  padding: 4px 15px;
+  color: hsl(16, 100%, 65%) !important;
+  background: #fff !important;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  border: none  !important;
+}
+
+.btn-remove {
+  padding: 4px 18px;
+  color: hsl(16, 100%, 65%) !important;
+  background: #fff !important;
+  border-radius: 5px;
+  font-size: 15px;
+  cursor: pointer;
+  border: none;
+}
+
+.total-price {
+  font-size: 23px;
+  font-weight: 700;
+}
+
+.empty-btn {
+  padding: 7px 18px !important;
+  background: hsl(16, 100%, 65%) !important ;
+  border: none;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.checkout {
+  padding: 7px 18px;
+  background: hsla(120, 75%, 16%, 0.801);
+  border: none;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-spacing {
+  margin: 0px 10px;
+}
+
+.table {
+  table {
+    width: 100%;
+  }
+
+  table th,
+  table td {
+    white-space: nowrap;
+  }
+
+  .table-responsive {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+@media (max-width: 768px) {
+  .table-responsive {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .cart-details{
+    margin-top: 40%;
+  }
+
+  .cart-img {
+    width: 35px;
+  }
+  
+  .cart-unique {
+    font-size: 15px;
+    font-weight: 700 !important;
+    margin-bottom: 15px;
+  }
+
+  .table-head-rows {
+    font-size: 11px;
+    font-weight: 700 !important;
+  }
+  
+  .table-row {
+    font-size: 11px;
+    font-weight: 600;
+  }
+
+  .btn-minus {
+    padding: 3px 10px;
+    color: hsl(16, 100%, 65%) !important;
+    background: #fff !important;
+    border-radius: 5px;
+    font-size: 8px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  
+  .btn-remove {
+    padding: 2px 12px;
+    color: hsl(16, 100%, 65%) !important;
+    background: #fff !important;
+    border-radius: 5px;
+    font-size: 11px;
+    cursor: pointer;
+  }
+
+  .fa-solid fa-trash{
+    font-size: 8px;
+  }
+
+  .total-price {
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 13px;
+  }
+
+  .empty-btn {
+    padding: 4px 14px !important;
+    background: hsl(16, 100%, 65%) !important ;
+    border: none;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 5px;
+    cursor: pointer;
+
+  }
+  
+  .checkout {
+    padding: 4px 14px;
+    background: hsla(120, 75%, 16%, 0.801);
+    border: none;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .btn-spacing {
+    margin: 8px 5px;
+  }
+}
