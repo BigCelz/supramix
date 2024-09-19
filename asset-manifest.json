@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/supramix/static/css/main.dc4b384e.css",
+    "main.js": "/supramix/static/js/main.97f9ac86.js",
+    "static/js/453.a2379d03.chunk.js": "/supramix/static/js/453.a2379d03.chunk.js",
+    "static/media/applevision2.jpg": "/supramix/static/media/applevision2.2944e824bfaf3d88f79f.jpg",
+    "static/media/macbook2.jpg": "/supramix/static/media/macbook2.b0a132a540d4daec7c92.jpg",
+    "static/media/applewatch2.jpg": "/supramix/static/media/applewatch2.c996556653824455bd29.jpg",
+    "static/media/elitebook.jpg": "/supramix/static/media/elitebook.ea344e2813fab9e83f63.jpg",
+    "static/media/hisensetv.jpg": "/supramix/static/media/hisensetv.edf67cc2bd36fc1616c7.jpg",
+    "static/media/samsungs10.jpg": "/supramix/static/media/samsungs10.45d509b9f3041d2d5aca.jpg",
+    "static/media/ps5.jpg": "/supramix/static/media/ps5.30dd12de6575f056053d.jpg",
+    "static/media/earbuds.jpg": "/supramix/static/media/earbuds.23201ee22e3369f2f610.jpg",
+    "static/media/jbl2.jpg": "/supramix/static/media/jbl2.44237b612450eb90f9c6.jpg",
+    "static/media/ipad.jpg": "/supramix/static/media/ipad.be6cf86e72cff762a219.jpg",
+    "static/media/pbank.jpg": "/supramix/static/media/pbank.adc6ca433b25c2144569.jpg",
+    "index.html": "/supramix/index.html",
+    "main.dc4b384e.css.map": "/supramix/static/css/main.dc4b384e.css.map",
+    "main.97f9ac86.js.map": "/supramix/static/js/main.97f9ac86.js.map",
+    "453.a2379d03.chunk.js.map": "/supramix/static/js/453.a2379d03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4b384e.css",
+    "static/js/main.97f9ac86.js"
+  ]
+}
